@@ -3,6 +3,8 @@ package com.tnsif.JDBC;
 
 	import java.sql.*;
 	import javax.sql.*;
+
+import com.sun.jdi.connect.spi.Connection;
 	public class Jdbcdemo {
 
 
